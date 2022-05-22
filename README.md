@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi I'm Muslim👋
+## About my
+I am a front-end developer with 1+ years of development experience. I like learning new technologies and using them to create cool things
+## 🔗 Contact me
+[<img src="https://image.similarpng.com/thumbnail/2021/01/Telegram-icon-on-transparent-background-PNG.png" width="50">](https://t.me/abusafiia)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="50">](https://www.linkedin.com/feed/)
+## 🔨  Hard Skills
+### 🚀 front-end:
+<ul>
+  <li>javascript, typescript</li>
+  <li>react</li>
+  <li>redux(thunk, toolkit)</li>
+  <li>html, css(scss,sass)</li>
+  <li>css modules</li>
+</ul>
 
-<!--
-**zamukaev/zamukaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 other:
+ <ul>
+  <li>php(Basic knowledge)</li>
+  <li>git</li>
+  <li>npm</li>
+ </ul>
+ 
+## 🛠️ My projects
+ <ul>
+  <li><a href="https://react-sneakers2.herokuapp.com/">react-sneakes</a></li>
+  <li><a href="https://gentle-everglades-58995.herokuapp.com/profile">React-Social-Network</a></li>
+  <li><a href="http://f9959517.beget.tech/">ITGID.INFO PHP</a></li>
+ </ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
