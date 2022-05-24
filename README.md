@@ -1,4 +1,4 @@
-### Hi I'm Muslim👋
+### Hi I'm Muslim 👋
 ## About my
 I am a front-end developer with 1+ years of development experience. I like learning new technologies and using them to create cool things
 ## 🔗 Contact me
