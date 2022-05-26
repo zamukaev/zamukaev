@@ -12,20 +12,18 @@ I am a front-end developer with 1 years of development experience. I like learni
   <li>redux(thunk, toolkit)</li>
   <li>html, css(scss,sass)</li>
   <li>css modules</li>
-  <li>php(Basic knowledge)</li>
-  <li>git</li>
-  <li>npm</li>
 </ul>
 
 ### 💬 other:
  <ul>
+  <li>php(Basic knowledge)</li>
+  <li>git</li>
   <li>npm</li>
-  
  </ul>
  
 ## 🛠️ My projects
  <ul>
-  <li><a href="https://react-sneakers2.herokuapp.com/">react-sneakes</a></li>
+  <li><a href="https://github.com/zamukaev/react-sneakers">react-sneakes</a> - Online store for ordering sneakers (demo)</li>
   <li><a href="https://gentle-everglades-58995.herokuapp.com/profile">React-Social-Network</a></li>
   <li><a href="http://f9959517.beget.tech/">ITGID.INFO PHP</a></li>
  </ul>
