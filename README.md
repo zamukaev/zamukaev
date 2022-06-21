@@ -23,8 +23,8 @@ I am a front-end developer with 1 years of development experience. I like learni
  
 ## 🛠️ My projects
  <ul>
+  <li><a href="https://github.com/zamukaev/React-pizza-typescript">react-sneakes</a> - online pizza ordering shop (demo)</li>
   <li><a href="https://github.com/zamukaev/react-sneakers">react-sneakes</a> - Online store for ordering sneakers (demo)</li>
   <li><a href="https://github.com/zamukaev/React-Social-Network">React-Social-Network</a></li>
   <li><a href="http://f9959517.beget.tech/">ITGID.INFO PHP</a></li>
  </ul>
-
