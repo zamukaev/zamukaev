@@ -10,6 +10,7 @@ I am a front-end developer with 1 years of development experience. I like learni
   <li>javascript, typescript</li>
   <li>react</li>
   <li>redux(thunk, toolkit)</li>
+  <li>MobX</li>
   <li>html, css(scss,sass)</li>
   <li>css modules</li>
 </ul>
