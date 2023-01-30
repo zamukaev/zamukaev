@@ -6,26 +6,21 @@ I am a front-end developer with 1 years of development experience. I like learni
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="50">](https://www.linkedin.com/feed/)
 ## 🔨  Hard Skills
 ### 🚀 front-end:
-<ul>
-  <li>javascript, typescript</li>
-  <li>react</li>
-  <li>redux(thunk, toolkit)</li>
-  <li>MobX</li>
-  <li>html, css(scss,sass)</li>
-  <li>css modules</li>
-</ul>
-
+  - javascript, typescript
+  - react
+  - redux(thunk, toolkit)
+  - MobX</li>
+  - html, css(scss,sass)
+  - css modules
 ### 💬 other:
- <ul>
-  <li>php(Basic knowledge)</li>
-  <li>git</li>
-  <li>npm</li>
- </ul>
  
+  - php(Basic knowledge)
+  - git
+  - npm
 ## 🛠️ My projects
- <ul>
-  <li><a href="https://github.com/ihopeyoucanfly/gameStore-frontend">Game-Store</a>  - Online store of computer equipment <a href="https://game-store-frontend-pink.vercel.app/">Link</a> </li>
-  <li><a href="https://github.com/zamukaev/React-pizza-typescript">react-pizza</a> - online pizza ordering shop (demo)</li>
-  <li><a href="https://github.com/zamukaev/React-Social-Network">React-Social-Network</a></li>
-  <li><a href="http://f9959517.beget.tech/">ITGID.INFO PHP</a></li>
- </ul>
+ 
+  - Game-Store -Online store of computer equipment [(demo)](https://github.com/ihopeyoucanfly/gameStore-frontend)
+  - react-pizza - online pizza ordering shop [(demo)](https://github.com/zamukaev/React-pizza-typescript)
+  - React-Social-Network [(demo)](https://github.com/zamukaev/React-Social-Network)
+  - ITGID.INFO PHP [(demo)](http://f9959517.beget.tech/)
+ 
