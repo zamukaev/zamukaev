@@ -18,7 +18,7 @@ I am a front-end developer with 1 years of development experience. I like learni
   - git
   - npm
 ## 🛠️ My projects
- 
+  - [My Blog]()
   - [Game-Store -Online store of computer equipment](https://github.com/ihopeyoucanfly/gameStore-frontend)
   - [react-pizza - online pizza ordering shop](https://github.com/zamukaev/React-pizza-typescript)
   - [React-Social-Network](https://github.com/zamukaev/React-Social-Network)
