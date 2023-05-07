@@ -6,15 +6,19 @@ I am a front-end developer with 1 years of development experience. I like learni
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="50">](https://www.linkedin.com/feed/)
 ## 🔨  Hard Skills
 ### 🚀 front-end:
-  - javascript, typescript
-  - react
-  - redux(thunk, toolkit)
-  - MobX</li>
-  - html, css(scss,sass)
-  - css modules
+  - HTML, CSS(SCSS,SASS)
+  - JavaScript, TypeScript
+  - React.js/Next.js
+  - Redux(thunk, toolkit)
+  - MobX
+  - Zustand
+  - CSS Modules
+  - Styled-Components
 ### 💬 other:
- 
-  - php(Basic knowledge)
+  - Node.js
+  - MongoDB
+  - Mongoose
+  - Shel
   - git
   - npm
 ## 🛠️ My projects
