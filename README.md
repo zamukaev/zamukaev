@@ -22,6 +22,7 @@ I am a front-end developer with 2 years of development experience. I like learni
   - git
   - npm
 ## 🛠️ My projects
+  - [ya_bao_shop](https://github.com/zamukaev/ya_bao_shop/blob/main/README.md)
   - [react-pizza-v2](https://github.com/zamukaev/react-pizza-v2)
   - [My Blog](https://github.com/zamukaev/capstone-project)
   - [Game-Store -Online store of computer equipment](https://github.com/ihopeyoucanfly/gameStore-frontend)
