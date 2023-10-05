@@ -9,12 +9,16 @@
 ### 🚀 front-end:
   - HTML, CSS(SCSS,SASS)
   - JavaScript, TypeScript
-  - React.js/Next.js
+  - React.js, Next.js
   - Redux(thunk, toolkit)
   - MobX
   - Zustand
   - CSS Modules
   - Styled-Components
+  - Jest
+  - Storybook,
+  - CI pepline
+  - FSD methodologiy
 ### 💬 other:
   - Node.js
   - MongoDB
@@ -22,12 +26,4 @@
   - Shel
   - git
   - npm
-## 🛠️ My projects
-  - [ya_bao_shop](https://github.com/zamukaev/ya_bao_shop)
-  - [react-pizza-v2](https://github.com/zamukaev/react-pizza-v2)
-  - [My Blog](https://github.com/zamukaev/capstone-project)
-  - [Game-Store -Online store of computer equipment](https://github.com/ihopeyoucanfly/gameStore-frontend)
-  - [react-pizza - online pizza ordering shop](https://github.com/zamukaev/React-pizza-typescript)
-  - [React-Social-Network](https://github.com/zamukaev/React-Social-Network)
-  - [ITGID.INFO PHP](http://f9959517.beget.tech/)
  
